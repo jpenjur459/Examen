@@ -15,11 +15,11 @@ public class Ejercicio1 {
         int valor_c = entrada.nextInt();
 
         int resultado1 = valor_a * valor_b + valor_c * ((3-valor_a)/2*valor_b);
-        System.out.println("el valor de la operación a es" resultado1);
+        System.out.println("el valor de la operación a es"+resultado1);
 
         int resultado2 = ((2 + valor_a * valor_b)/4 )^(valor_c + 2);
-        System.out.println("el valor de la operación b es" resultado2);
-        int resultado
+        System.out.println("el valor de la operación b es"+resultado2);
+
 
     }
 }
