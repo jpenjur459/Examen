@@ -13,8 +13,8 @@ public class Ejercicio2 {
         double Kelvin = ( grados + 273.15 );
         int fahrenheit = ((9/5) * grados + 32);
 
-        String (unidad = f) ? fahrenheit : "Ese valor no exixte";
-        String (unidad = k) ? Kelvin : "Este valor no exixte";
+         //String (unidad = f) ? fahrenheit : "Este valor no exixte";
+         //String (unidad = k) ? Kelvin : "Este valor no exixte";
 
     }
 }

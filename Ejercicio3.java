@@ -16,9 +16,9 @@ public class Ejercicio3 {
 
         int proporciones = (numeroamigos / numeropizzas * numeroporciones);
 
-        int sobrante = %proporciones ;
+        //int sobrante = %proporciones ;
 
-        System.out.println("el numero de procorciones para cada uno es " + proporciones + "el numero de los trozos que sobran son " + sobrante) ;
+        //System.out.println("el numero de procorciones para cada uno es " + proporciones + "el numero de los trozos que sobran son " + sobrante) ;
 
     }
 }
